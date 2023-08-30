@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Peso_Exercise {
+public class Weight_Exercise {
     public static void main(String[] args) {
         Scanner scan  = new Scanner(System.in);
 
