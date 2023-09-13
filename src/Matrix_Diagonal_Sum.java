@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class MatrixDiagonalSum {
+public class Matrix_Diagonal_Sum {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int matrix[][] = new int[3][3];
