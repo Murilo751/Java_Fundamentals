@@ -7,7 +7,7 @@ public class Array_Exercise {
         int contPar = 0;
 
         for (int i = 0; i < array.length; i++) {
-            System.out.printf("Digite o [%d]", i+1);
+            System.out.printf("Digite o %d o numero", i+1);
 
             array[i] = scan.nextInt();
             if (array[i] % 2 == 0){
@@ -17,5 +17,12 @@ public class Array_Exercise {
         }
         System.out.println("a quantidade de pares são " + contPar);
         scan.close();
+
+        for (int j = 0; j < array.length; j++) {
+            if (array[j] % 2 == 0){
+                System.out.println(array[j]);
+            }
+
+        }
     }
 }
