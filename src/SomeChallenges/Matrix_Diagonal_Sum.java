@@ -1,3 +1,5 @@
+package SomeChallenges;
+
 import java.util.Scanner;
 
 public class Matrix_Diagonal_Sum {

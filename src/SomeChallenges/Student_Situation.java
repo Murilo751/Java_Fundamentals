@@ -1,3 +1,5 @@
+package SomeChallenges;
+
 import java.util.Scanner;
 public class Student_Situation {
     public static void main(String[] args) {

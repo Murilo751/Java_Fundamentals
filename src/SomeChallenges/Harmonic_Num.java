@@ -1,3 +1,5 @@
+package SomeChallenges;
+
 import java.util.Scanner;
 
 public class Harmonic_Num {

@@ -1,3 +1,5 @@
+package SomeChallenges;
+
 import java.util.Scanner;
 public class Exercise_Radiano {
     public static void main(String[] args) {

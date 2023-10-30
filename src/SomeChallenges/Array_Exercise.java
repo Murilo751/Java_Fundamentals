@@ -1,3 +1,5 @@
+package SomeChallenges;
+
 import java.util.Scanner;
 
 public class Array_Exercise {

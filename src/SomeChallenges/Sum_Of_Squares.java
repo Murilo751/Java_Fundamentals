@@ -1,3 +1,5 @@
+package SomeChallenges;
+
 public class Sum_Of_Squares {
     public static void main(String[] args) {
         int somaQuad = 0;
